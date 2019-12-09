@@ -10,8 +10,8 @@ I'm a software engineer student at ÉTS in Montréal,QC,Canada. I focus on robot
 I'm also interested in : 
 - Software engineering
 - Linux
-- Opensource
 - Sciences (natural and social)
+\\
 
 Github : [https://github.com/Ludoenso](https://github.com/Ludoenso)
 Email : ludovicvanasse@gmail.com
