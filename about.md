@@ -12,7 +12,6 @@ I'm also interested in :
 - Linux
 - Sciences (natural and social)
 
-
 \\
 Github : [https://github.com/Ludoenso](https://github.com/Ludoenso)
 Email : ludovicvanasse@gmail.com
