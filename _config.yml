@@ -1,7 +1,7 @@
 title: 'ludoenso.github.io'
 description: "Ludovic Vanasse's blog"
 baseurl: ""
-url: "https://ludoenso.github.io"
+url: "https://ludoenso.github.io/home"
 
 header_pages:
   - home.md
