@@ -1,7 +1,7 @@
 ---
-title: /
+title: /home
 layout: home
-permalink: /
+permalink: /home
 ---
 
 # Ludovic Vanasse's blog
