@@ -5,7 +5,7 @@ permalink: /about
 ---
 # About me
 
-I'm a embedded software developper at Lux Aerobot in Montréal, QC, Canada. I have a bachelor degree from ÉTS in software engineering. I focus on robotic, embedded and system programming.
+I'm a embedded software developper at Lux Aerobot in Montréal, QC, Canada. I have a bachelor degree from ÉTS in software engineering. I focus on robotic, embedded, and system programming.
 \\
 I'm also interested in : 
 - Software engineering
